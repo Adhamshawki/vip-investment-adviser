@@ -1,33 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>VIP Investment Adviser | OIA Properties</title>
-  <style>
-    /* Reset and base styles */
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    body {
-      background: #f9f9f9;
-      color: #333;
-      line-height: 1.6;
-    }
-    a {
-      text-decoration: none;
-      color: #0056b3;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style: none;
-    }
-    
-    /* Header */
-    header {
-     
+  <meta charset="UTF-8">
+  <title>VIP Investment Adviser</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin-top: 100px;">
+  <h1>VIP Investment Adviser</h1>
+  <p>Welcome to your professional real estate investment platform</p>
+</body>
+</html>
